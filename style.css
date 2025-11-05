@@ -14,10 +14,12 @@
 }
 h2{
  	margin-bottom: 10px;
+	font-family: Aboreto;
 }
 h1{
 	font-size: 48px;
 	margin-bottom: 40px;
+	font-family: Alumni Sans;
 }
 main{
 	background: white;
@@ -49,4 +51,5 @@ img{
 footer .footer_item img {
   width: 20%;
   height: auto;
+
 }
